@@ -1,6 +1,9 @@
-# flutter_paint_demo
+# Flutter Custom Clipper Demo
+For Custom Shapes in Flutter, we can use Custom Clipper. This is a demo app to show how to use Custom Clipper in Flutter.
 
-A new Flutter project.
+## Screenshots
+### Basic Variations [Line, Circle, Rectangle, Triangle]
+<img src="assets/basic_variations.png" width="300"/>
 
 ## Getting Started
 
